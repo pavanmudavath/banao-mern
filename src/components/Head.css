@@ -1,0 +1,113 @@
+/* src/App.css */
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    position: fixed;
+    width: 1440px;
+    height: 72px;
+    flex-shrink: 0;
+    background: #FFF;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.12);
+    color: #FFFFFF;
+  }
+  
+  .company-name {
+    position: fixed;
+    width: 162.566px;
+    height: 24px;
+    flex-shrink: 0;
+  }
+  .company-logo {
+    position: fixed;
+    left: 72px; /* Distance from the left */
+    top: 24px; /* Distance from the top */
+    width: 162.566px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.search-container{
+  position: fixed;
+  left:540px;
+  right:540px;
+  top:16px;
+  bottom:14px;
+  width:calc(100%-1080px);
+  height:42px;
+  border-radius: 21px;
+  background: #F2F2F2;
+}
+.search-logo{
+  position: fixed;
+  left:554px;
+  right:864px;
+  top:26px;
+  bottom:24px;
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+.input-text{
+  position:fixed;
+  left:590px;
+  right:608px;
+  top:28px;
+  bottom:25px;
+  color: #5C5C5C;
+  width: 242px;
+  height: 19px;
+  background: #F2F2F2;
+font-family: IBM Plex Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+border:none;
+outline: none;
+}
+/* src/App.css */
+
+.create-account {
+  position: fixed;
+  left: 1161px;
+  right: 96px;
+  top: 27px;
+  bottom: 24px;
+  line-height: normal;
+  border: none;
+  outline: none;
+  width: 183px;
+  height: 21px;
+}
+
+.create-account-text {
+  color: #2E2E2E;
+  text-align: right;
+  font-family: 'IBM Plex Sans';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.free-text {
+  color: #2F6CE5;
+  font-family: 'IBM Plex Sans';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.arrow-drop{
+  position: fixed;
+  left: 1344px;
+  right: 72px;
+  top: 26px;
+  bottom: 22px;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+

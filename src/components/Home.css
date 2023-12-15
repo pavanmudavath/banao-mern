@@ -1,0 +1,197 @@
+.home-image{
+    position:relative;
+    right: 0px;
+    left: 0px;
+    top: 72px;
+    bottom: 1965px;
+    width: 1440px;
+    height: 440px;
+    flex-shrink: 0;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.60) 100%);
+}
+.allpost{
+    position: absolute;
+    left: 200px;
+    right: 1147px;
+    top: 559px;
+    bottom: 1897px;
+    width: 93px;
+height: 21px;
+    flex-shrink: 0;
+    color: #000;
+font-family: IBM Plex Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.article{
+    position: absolute;
+    left: 313px;
+    right: 1080px;
+    top: 559px;
+    bottom: 1897px;
+    width: 47px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #8A8A8A;
+    font-family: IBM Plex Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.event{
+    position: absolute;
+    left: 380px;
+    right: 1019px;
+    top: 559px;
+    bottom: 1897px;
+    width: 41px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #8A8A8A;
+    font-family: IBM Plex Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.education{
+    position: absolute;
+    left: 439px;
+    right: 929px;
+    top: 559px;
+    bottom: 1897px;
+    width: 72px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #8A8A8A;
+    font-family: IBM Plex Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.job{
+    position: absolute;
+    left: 531px;
+    right: 882px;
+    top: 559px;
+    bottom: 1897px;
+    width: 27px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #8A8A8A;
+    font-family: IBM Plex Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.write-post-box{
+    position: absolute;
+    left: 966px;
+    right: 341px;
+    top: 552px;
+    bottom: 1889px;
+    width: 133px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #EDEEF0;
+}
+.write-post-text{
+    
+    left: 978px;
+    right: 379px;
+    top: 560px;
+    bottom: 1897px;
+    width: 83px;
+    height: 20px;
+    color: #000;
+    font-family: IBM Plex Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;   
+}
+.home-arrow-down{
+    position: absolute;
+    left: 1071px;
+    right: 347px;
+    top: 559px;
+    bottom: 1896px;
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+}
+.join-group-box{
+    position: absolute;
+    left: 1115px;
+    right: 200px;
+    top: 552px;
+    bottom: 1889px;
+    width: 125px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #2F6CE5;
+}
+.join-group-text{
+    left: 1153px;
+    right: 212px;
+    top: 560px;
+    bottom: 1897px;
+    width: 75px;
+    height: 20px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: IBM Plex Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.home-group-icon{
+    left: 1100px;
+    right: 303px;
+    top: 559px;
+    bottom: 1896px;
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+    background: #FFF;
+}
+
+
+.Homeline-down1{
+    position: absolute;
+    left: 200px;
+    right: 1147px;
+    top: 600px;
+    bottom: 1877px;
+    width: 92px;
+    height: 2px;
+    
+    background: #000;
+}
+.Homeline-down2{
+    position: absolute;
+    left: 200px;
+    right: 200px;
+    top: 600px;
+    bottom: 1877px;
+    width: 1040px;
+    height: 1px;
+    background: #E0E0E0;
+}
+.outline-location-logo{
+    position: absolute;
+    left: 997px;
+    right: 425px;
+    top: 656px;
+    bottom: 1803px;
+    width: 18px;
+    height: 18px;
+}

@@ -1,0 +1,340 @@
+/* src/components/SignUp.css */
+
+.sign-in-card1-outside{
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+  opacity: 0.6;
+  background: #000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sign-in-card1 {
+    position: fixed;
+    left: 352px;
+    right: 352px;
+    top: 186px;
+    bottom: 381px;
+    width: 736px;
+    height: 457px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: #FFF;
+box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+  }
+  .top-Of-SignIn1{
+    position: fixed;
+    left: 352px;
+    right: 352px;
+    top: 186px;
+    bottom: 788px;
+    width: 736px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 8px 8px 0px 0px;
+    background: #EFFFF4;
+  }
+  .text-style1{
+    position: fixed;
+    left: 411px;
+    right: 410px;
+    top: 203px;
+    bottom: 805px;
+    width: 619px;
+    height: 16px;
+
+    color: #008A45;
+text-align: center;
+font-family: IBM Plex Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 114.286% */
+  }
+  .vector-logo1 {
+    position: fixed;
+    left: 1074px;
+    right: 338px;
+    top: 146px;
+    bottom: 850px;
+    width: 28px;
+height: 28px;
+    flex-shrink: 0;
+    color: #FFFFFF;
+  }
+  .create-account-signIn1{
+    position: fixed;
+    left: 388px;
+    right: 972px;
+    top: 260PX;
+    bottom: 733px;
+    width: 80px;
+    height: 31px;
+    color: #000;
+    font-family: IBM Plex Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .text-signin1{
+    position: fixed;
+    left: 772px;
+    right: 350px;
+    top: 267PX;
+    bottom: 740px;
+    width: 280px;
+    height: 17px; 
+    color: #3D3D3D;
+
+text-align: right;
+font-family: IBM Plex Sans;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  .tect-signin-normal1{
+      color: #3D3D3D;
+      text-align: right;
+      font-family: IBM Plex Sans;
+      font-size: 13px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  .tect-signin-signin1{
+    color: #2F6CE5;
+    font-family: IBM Plex Sans;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  
+  .signUp-logo1{
+    position: fixed;
+    left: 732px;
+    right: 388px;
+    top: 315px;
+    bottom: 389px;
+    width: 320;
+    height: 320;
+  }
+  .inputbox2-signUp1{
+    position: fixed;
+      left: 388px;
+      right: 732px;
+      top: 315PX;
+      bottom: 663px;
+      width: 320px;
+      height: 46px;
+      flex-shrink: 0;
+      border: 1px solid #D9D9DB;
+      background: #F7F8FA;
+  }
+  .inputbox2-Email1{
+    position: fixed;
+    left: 400px;
+    right: 1001px;
+    top: 330PX;
+    bottom: 678px;
+    width: 39px;
+    height:16px;
+    background: #F7F8FA;
+    font-family: IBM Plex Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; /* 106.667% */
+    line-height: normal;
+      border:none;
+      outline: none;
+  }
+  .inputbox3-signUp1{
+    position: fixed;
+      left: 388px;
+      right: 732px;
+      top: 360PX;
+      bottom: 618px;
+      width: 320px;
+      height: 46px;
+      flex-shrink: 0;
+      border: 1px solid #D9D9DB;
+      background: #F7F8FA;  
+  }
+  .inputbox3-Password1{
+    position: fixed;
+    left: 400px;
+    right: 973px;
+    top: 375PX;
+    bottom: 633px;
+    width: 67px;
+    height:16px;
+    background: #F7F8FA;
+      font-family: IBM Plex Sans;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      border:none;
+      outline: none;
+  }
+ .eye-icon1{
+  position: fixed;
+  left: 672px;
+  right: 750px;
+  top: 374PX;
+  bottom: 632px;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+ }
+ .create-account-button1{
+  position: fixed;
+  left: 388px;
+  right: 732px;
+  top: 425PX;
+  bottom: 559px;
+  width: 320px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 20px;
+ background: #2F6CE5;
+ }
+ .create-account-button-text1{
+  position: fixed;
+  top: 437px;
+  bottom: 571px;
+  left: 498px;
+  right: 842px;
+  width: 100px;
+  height: 16px;
+  flex-shrink: 0;
+  color: #FFF;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px; /* 114.286% */
+ }
+ .facebook-login1{
+  position: fixed;
+  left: 388px;
+  right: 732px;
+  top: 489PX;
+  bottom: 497px;
+  width: 320px;
+  height: 38px;
+  flex-shrink: 0;
+  border-radius: 2px;
+  border: 0.6px solid #D9D9DB;
+  background: #FFF;
+ }
+ .facebook-logo1{
+  position: fixed;
+  left: 465px;
+  right: 595px;
+  top: 500PX;
+  bottom: 508px;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+ }
+ .facebook-signUpmsg1{
+  position: fixed;
+  left: 491px;
+  right: 812px;
+  top: 500PX;
+  bottom: 508px;
+  width: 137px;
+  height: 16px;
+  flex-shrink: 0;
+
+  color: #000;
+  font-family: IBM Plex Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px; /* 114.286% */
+
+ }
+ .google-login1{
+  position: fixed;
+  left: 388px;
+  right: 732px;
+  top: 535PX;
+  bottom: 401px;
+  width: 320px;
+  height: 38px;
+  flex-shrink: 0;
+  border-radius: 2px;
+  border: 0.6px solid #D9D9DB;
+  background: #FFF;
+ }
+ .google-logo1{
+  position: fixed;
+  left: 473px;
+  right: 951px;
+  top: 546PX;
+  bottom: 462px;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+ }
+ .google-signUpmsg1{
+  position: fixed;
+  left: 499px;
+  right: 821px;
+  top: 546PX;
+  bottom: 46
+  2px;
+  width: 120px;
+  height: 16px;
+  flex-shrink: 0;
+
+  color: #000;
+  font-family: IBM Plex Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px; /* 114.286% */
+
+ }
+ .forgot-possword1{
+    position: fixed;
+  left: 387px;
+  right: 736px;
+  top: 596PX;
+  bottom: 412px;
+  width: 317px;
+  height: 16px;
+  flex-shrink: 0;
+ 
+ }
+
+ .forgot-possword-msg1{
+    position: fixed;
+    left: 387px;
+    right: 736px;
+    top: 596PX;
+    bottom: 412px;
+    width: 317px;
+    height: 16px;
+    flex-shrink: 0;
+  
+    color: #000;
+    font-family: IBM Plex Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 114.286% */
+ }
+
+  
